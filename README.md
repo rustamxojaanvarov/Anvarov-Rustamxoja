@@ -1,4 +1,4 @@
-<h1 align="center"> front end UI/UX Rustamxo'ja Anvarov</h1>
+<h1 align="center"> Rustamxo'ja Anvarov</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rustamxojaanvarov&label=Profile%20views&color=0e75b6&style=flat" alt="rustamxojaanvarov" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rustamxojaanvarov" alt="rustamxojaanvarov" /></a> </p>
